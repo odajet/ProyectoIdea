@@ -12,5 +12,7 @@ public class Main {
         , 6, 25));
 
         System.out.println(a);
+
+        System.out.println("Hello World");
     }
 }
