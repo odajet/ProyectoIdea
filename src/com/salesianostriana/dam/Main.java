@@ -27,5 +27,12 @@ public class Main {
         System.out.println(array[2]);
 
 
+
+        int[] arr = new int[] {123, 456, 789};
+
+        for(int b: arr) {
+            System.out.println(b);
+        }
+
     }
 }
